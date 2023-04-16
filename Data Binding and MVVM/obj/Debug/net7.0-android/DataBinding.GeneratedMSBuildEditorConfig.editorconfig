@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net7.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = DataBinding
+build_property.ProjectDir = C:\Users\teuku\source\repos\Data Binding and MVVM\Data Binding and MVVM\
+
+[C:/Users/teuku/source/repos/Data Binding and MVVM/Data Binding and MVVM/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DataBinding.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/teuku/source/repos/Data Binding and MVVM/Data Binding and MVVM/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DataBinding.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/teuku/source/repos/Data Binding and MVVM/Data Binding and MVVM/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DataBinding.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/teuku/source/repos/Data Binding and MVVM/Data Binding and MVVM/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DataBinding.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/teuku/source/repos/Data Binding and MVVM/Data Binding and MVVM/View/ClockPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DataBinding.View.ClockPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\ClockPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\ClockPage.xaml
+
+[C:/Users/teuku/source/repos/Data Binding and MVVM/Data Binding and MVVM/View/DateTimePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DataBinding.View.DateTimePage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\DateTimePage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\DateTimePage.xaml
+
+[C:/Users/teuku/source/repos/Data Binding and MVVM/Data Binding and MVVM/View/HslColorPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DataBinding.View.HslColorPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\HslColorPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\HslColorPage.xaml
+
+[C:/Users/teuku/source/repos/Data Binding and MVVM/Data Binding and MVVM/View/InformationPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DataBinding.View.InformationPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\InformationPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\InformationPage.xaml
+
+[C:/Users/teuku/source/repos/Data Binding and MVVM/Data Binding and MVVM/View/KeypadPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DataBinding.View.KeypadPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\KeypadPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\KeypadPage.xaml
+
+[C:/Users/teuku/source/repos/Data Binding and MVVM/Data Binding and MVVM/View/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DataBinding.View.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\MainPage.xaml

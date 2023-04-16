@@ -1,0 +1,1 @@
+C:\Users\teuku\source\repos\Data Binding and MVVM\Data Binding and MVVM\DataBinding.csproj;x64
